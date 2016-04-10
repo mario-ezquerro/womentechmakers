@@ -1,4 +1,4 @@
-# Women TechMaker La Rioja
+# Women TechMakers La Rioja
 
 Usando:
 Material Design Template for DevFest 2015 Season
